@@ -1,4 +1,3 @@
-# Cornell-Quant-Fund/website
 # The Cornell Quant Fund Website
 
 Built using HTML/CSS, JS, and elements from HTML5UP. Photos from Unsplash. Logo and graphics made through Photoshop CC.
