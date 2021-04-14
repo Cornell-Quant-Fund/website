@@ -4,4 +4,4 @@ Built using HTML/CSS, JS, and elements from HTML5UP. Photos from Unsplash. Logo 
 
 https://cornellquantfund.org/
 
-![alt text](https://github.com/Cornell-Quant-Fund/website/main/sample.gif?raw=true)
+![alt text](https://github.com/Cornell-Quant-Fund/website/blob/main/sample.gif?raw=true)
